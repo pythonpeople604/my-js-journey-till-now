@@ -1,0 +1,10 @@
+console.log('this is tut 11'); 
+let a = window.document;
+//a = prompt('this will destroy your computer');
+//a = confirm('are you sure');
+a = innerWidth;
+a = outerHeight;
+a = scrollX;
+a = location;
+a = window.history;
+console.log(a);
